@@ -1,5 +1,5 @@
 [package]
-name = "paper-dump"
+name = "pdump"
 version = "0.1.0"
 edition = "2021"
 
